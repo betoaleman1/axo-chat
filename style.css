@@ -1,5 +1,11 @@
-.heather img{
-    height:15%;
-    width:15%;
-    margin-left:-15px;
+.header img{
+    height:100px;
+    width:100px;
+    margin-left:15px;
+}
+body{
+    background-image: linear-gradient(to right top, #f133b8, #d925bb, #c11891, #aa0a8a, #940059)
+}
+.header{
+    color: black;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
